@@ -1,4 +1,4 @@
-## Test Smart Contract With Hardhat
+## Test & Deploy Smart Contract With Hardhat
 [Hardhat Documentation](https://hardhat.org/tutorial)
 
 1. Node install
