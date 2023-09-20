@@ -1,11 +1,25 @@
+## Test Smart Contract With Hardhat
+
 1. Node install
 
 ```
 npm i
 ```
 
-2. Node install
+2. To run Hardhat
 
 ```
-npm i
+npx hardhat
+```
+
+3. Compile smart contract
+
+```
+npx hardhat compile
+```
+
+4. Test smart contract 
+
+```
+npx hardhat test
 ```
