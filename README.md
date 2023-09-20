@@ -24,10 +24,15 @@ npx hardhat compile
 npx hardhat test
 ```
 
-4. Deploy smart contract 
+5. Deploy smart contract 
 
 ```
 npx hardhat run scripts/deploy.js --network <network-name>
 ```
+Example 
+```
+npx hardhat run scripts/deploy.js --network sepolia
+```
 
-https://hardhat.org/tutorial
+
+[Hardhat Documentation](https://hardhat.org/tutorial)
