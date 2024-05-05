@@ -34,3 +34,8 @@ Example
 ```
 npx hardhat run scripts/deploy.js --network sepolia
 ```
+
+```
+    npx hardhat node
+    npx hardhat run scripts/deploy.js --network localhost
+```
